@@ -25,5 +25,5 @@ Being a football fan, especially the English Premier League(EPL), exploring FIFA
 - Ball control, reactions and age are indeed the three main features that decides a player's potential.
 
 ### Acknowledgements
-- www.kaggle.com for the dataset
-- www.stackoverflow.com for research and unblocking.
+- [FIFA 19 complete player dataset](https://www.kaggle.com/karangadiya/fifa19/data#)
+- [Stackoverflow](http://www.stackoverflow.com) for research and unblocking.
